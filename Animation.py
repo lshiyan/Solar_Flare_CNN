@@ -6,7 +6,6 @@ from IPython import get_ipython
 import csv
 import os
 
-os.chdir("C:\\Users\\Shiyan Liu\\GitHub\\Solar_Flare_CNN")
 losses=[]
 
 with open('data.csv', 'r') as file:
